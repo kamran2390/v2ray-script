@@ -70,7 +70,8 @@ chmod +x vmess-bridge-installer.sh
 
 https://Github.com/4xmen
 <br>
-https://Xstack.ir
+https://Xstack.ir 
+عالی هستید دمتون گرم
 
 ## Features
 
